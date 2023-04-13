@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ios": "cpp",
+        "algorithm": "cpp",
+        "map": "cpp",
+        "set": "cpp"
+    }
+}
